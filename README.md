@@ -1,4 +1,4 @@
-# To-Do-App
+# photoTodo
 Bacic notes app with edit delete update functionality in react-native.
 
 FEATURES
