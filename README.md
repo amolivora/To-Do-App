@@ -1,5 +1,13 @@
 # To-Do-App
-Bacic notes app with edit delete update functionality in react-native
+Bacic notes app with edit delete update functionality in react-native.
+
+FEATURES
+1. Create new note(a note includes title, date and description)
+2. Edit a note
+3. Delete a note
+4. Upload/Delete an image in the note
+5. Responsive layout
+6. Search for note in the list
 
 Step 1:
 clone or download the project
@@ -30,11 +38,5 @@ once sync is done open emulator
 Step 8:
 Run: $ react-native run-android
 
-FEATURES
-1. Create new note(a note includes title, date and description)
-2. Edit a note
-3. Delete a note
-4. Upload/Delete an image in the note
-5. Responsive layout
-6. Search for note in the list
+
 
